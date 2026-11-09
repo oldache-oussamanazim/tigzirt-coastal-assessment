@@ -37,6 +37,7 @@ The report interprets the decreasing distance as local shoreline retreat toward 
 
 ## Repository status
 This repository initially documents the submitted field report, the original AutoCAD drawings and detailed total-station coordinate exports. 
+
 **The results will be added after recovery and verification.**
 
 No raw survey coordinates, derived shoreline vectors, complete GIS project, or reproducible numerical shoreline-change analysis are claimed to be available at this stage.
