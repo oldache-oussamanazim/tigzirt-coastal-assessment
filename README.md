@@ -1,7 +1,7 @@
 # Coastal Geomorphological Assessment and Shoreline Evolution of Tigzirt, Algeria
 
 ## Overview
-This repository documents a coastal field study conducted in April 2025 along the Tigzirt coast, wilaya of Tizi Ouzou, northern Algeria. Field investigations covered **Tasalast (also spelled Tasalast/Tasselast in the report)** and **Feraoun** beaches.
+This repository documents a coastal field study conducted in April 2025 along the Tigzirt coast, wilaya of **Tizi Ouzou**, northern Algeria. Field investigations covered **Tasalast (also spelled Tasalast/Tasselast in the report)** and **Feraoun** beaches.
 
 The objective was to characterize the coastal environment, examine ongoing coastal processes, and assess the influence of human interventions on shoreline evolution. The work combined topographic surveying, GPS positioning, direct field observations, historical-image comparison, and brief discussions with local residents.
 
