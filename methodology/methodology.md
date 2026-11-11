@@ -11,12 +11,7 @@ As described in the report, the total station was installed at a stable location
 The Garmin eTrex GPS was used to locate survey stations and fixed reference points. **AutoCAD was used**.
 
 ## 3. Historical shoreline comparison using Google Earth
-A historical comparison was conducted for Tassalest using Google Earth imagery. A fixed point on the backshore protection wall was used as a reference (reported coordinates: 36°53'23"N, 4°06'32"E).
-
-The report text records:
-- November 2019: 24.04 m
-- 2020: 20.15 m
-- November 2023: 17.64 m
+A historical comparison was conducted for Tassalest using Google Earth imagery. A fixed point on the backshore protection wall was used as a reference **(reported coordinates: 36°53'23"N, 4°06'32"E)**.
 
 The decreasing distance between the fixed point and the waterline show's that the shoreline has retreated.
 
