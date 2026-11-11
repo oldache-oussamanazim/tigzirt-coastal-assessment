@@ -1,7 +1,7 @@
 # References and source material
 
 ## Primary source
-Oldache, O. N. (2025). *Coastal field study of the Tigzirt region: Tasalast and Feraoun beaches*. Field report, Faculty of Earth Sciences and Land Planning, University of Science and Technology Houari Boumediene (USTHB), April 2025.
+Oldache (2025). *Coastal field study of the Tigzirt region: Tasalast and Feraoun beaches*. Field report, Faculty of Earth Sciences and Land Planning, University of Science and Technology Houari Boumediene (USTHB), April 2025.
 
 ## References cited in the field report
 The submitted report includes references/captions attributed to:
