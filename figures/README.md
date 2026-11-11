@@ -1,6 +1,6 @@
 # Figures
 
-This repository section catalogs the visual evidence and technical illustrations extracted directly from the Tigzirt coastal assessment technical report (`rapport_stage_tigzirt.pdf`). These assets provide empirical and visual support for the field survey, geomorphological analysis, and engineering evaluations conducted on-site.
+This repository section catalogs the visual evidence and technical illustrations extracted directly from the Tigzirt coastal assessment technical report (`Coastal field study of the Tigzirt region.pdf`). These assets provide empirical and visual support for the field survey, geomorphological analysis, and engineering evaluations conducted on-site.
 
 ## Inventory Overview
 
